@@ -1,0 +1,6 @@
+@PruebaTelus_HostAddress = http://localhost:5186
+
+GET {{PruebaTelus_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
