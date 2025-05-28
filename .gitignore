@@ -1,0 +1,68 @@
+## Archivos generados por .NET
+bin/
+obj/
+out/
+project.lock.json
+project.fragment.lock.json
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Configuración local
+.vscode/
+.idea/
+*.code-workspace
+
+## Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.vs/
+.vs/
+
+## Paquetes NuGet
+*.nupkg
+packages/
+*.snupkg
+
+## Archivos de publicación
+publish/
+wwwroot/
+
+## Secretos de usuario (por ejemplo con Secret Manager)
+secrets.json
+
+## Configuración de entorno
+.env
+.env.*
+
+## Certificados de desarrollo
+*.pfx
+*.key
+
+## Archivos de compilación
+*.dll
+*.exe
+*.pdb
+
+## Test Results
+TestResults/
+coverage/
+
+## Archivos de sistema
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Rider / JetBrains IDE
+.idea/
+
+## Visual Studio para Mac
+.vscode/
+*.userprefs
+
+## Docker (si usas Docker)
+docker-compose.override.yml
