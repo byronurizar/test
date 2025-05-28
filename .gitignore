@@ -1,6 +1,6 @@
 ## Archivos generados por .NET
-bin/
-obj/
+**bin
+**obj
 out/
 project.lock.json
 project.fragment.lock.json
